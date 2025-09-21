@@ -103,7 +103,7 @@
         {
             "type": "Link",
             "label": "Policy för kakor",
-            "altText": "",
+            "altText": "Policy för kakor",
             "url": "/kakor",
             "showIcon": false,
             "icon": "arrowRight",
