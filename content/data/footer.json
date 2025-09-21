@@ -84,7 +84,7 @@
     "legalLinks": [
         {
             "label": "Villkor",
-            "url": "/",
+            "url": "/villkor",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
