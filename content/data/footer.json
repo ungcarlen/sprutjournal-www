@@ -72,6 +72,13 @@
             "url": "https://www.facebook.com/sprutjournal/",
             "icon": "facebook",
             "elementId": ""
+        },
+        {
+            "type": "Social",
+            "altText": "YouTube icon",
+            "url": "https://www.youtube.com/@sprutjournal",
+            "icon": "youtube",
+            "elementId": ""
         }
     ],
     "legalLinks": [
