@@ -62,7 +62,7 @@
     "socialLinks": [
         {
             "altText": "E-postadress",
-            "url": "support@sprutjournal.se",
+            "url": "mailto:support@sprutjournal.se",
             "icon": "mail",
             "type": "Social"
         },
