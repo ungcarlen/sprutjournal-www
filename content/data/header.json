@@ -15,7 +15,7 @@
     "secondaryLinks": [
         {
             "label": "Registrera konto",
-            "altText": "Sign up",
+            "altText": "Registrera konto",
             "url": "https://app.netlify.com/signup",
             "icon": "arrowRight",
             "iconPosition": "right",
