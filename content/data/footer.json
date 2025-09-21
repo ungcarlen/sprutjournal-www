@@ -73,12 +73,6 @@
             "type": "Social"
         },
         {
-            "altText": "LinkedIn link",
-            "url": "https://www.linkedin.com/company/netlify",
-            "icon": "linkedin",
-            "type": "Social"
-        },
-        {
             "altText": "E-postadress",
             "url": "support@sprutjournal.se",
             "icon": "mail",
