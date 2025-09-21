@@ -93,7 +93,7 @@
         },
         {
             "label": "Integritetspolicy",
-            "url": "/",
+            "url": "/integritetspolicy",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
