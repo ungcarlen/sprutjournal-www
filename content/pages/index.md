@@ -13,7 +13,7 @@ sections:
       hålla koll. Använder du sprutjournal.se uppfyller du även kommande lagkrav
       som ikraftträder 1 januari 2026.
     actions:
-      - label: Get started
+      - label: Kom igång
         altText: ''
         url: /
         showIcon: false
