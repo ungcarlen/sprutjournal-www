@@ -27,7 +27,7 @@
             "url": "https://app.sprutjournal.se/logga-in",
             "icon": "arrowRight",
             "iconPosition": "right",
-            "style": "primary",
+            "style": "secondary",
             "type": "Button",
             "altText": "Logga in"
         }
