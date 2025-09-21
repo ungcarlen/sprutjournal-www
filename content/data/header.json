@@ -23,7 +23,7 @@
             "type": "Button"
         },
         {
-            "label": "Log in",
+            "label": "Logga in",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
