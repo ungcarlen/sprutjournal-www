@@ -13,14 +13,6 @@
     },
     "primaryLinks": [
         {
-            "label": "Priser",
-            "url": "/pricing",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "label": "Blogg",
             "altText": "Blog",
             "url": "/blog",
